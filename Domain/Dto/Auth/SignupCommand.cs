@@ -1,0 +1,1 @@
+public record SignupCommand(string Email, string Password);
